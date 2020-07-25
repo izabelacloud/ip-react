@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ip-react/static/css/main.c318d926.chunk.css",
+    "main.js": "/ip-react/static/js/main.1e639581.chunk.js",
+    "main.js.map": "/ip-react/static/js/main.1e639581.chunk.js.map",
+    "runtime-main.js": "/ip-react/static/js/runtime-main.c39eee13.js",
+    "runtime-main.js.map": "/ip-react/static/js/runtime-main.c39eee13.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/ip-react/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.d581e526.chunk.js": "/ip-react/static/js/2.d581e526.chunk.js",
+    "static/js/2.d581e526.chunk.js.map": "/ip-react/static/js/2.d581e526.chunk.js.map",
+    "index.html": "/ip-react/index.html",
+    "precache-manifest.76e95049e61bb7867852b1072a9444bb.js": "/ip-react/precache-manifest.76e95049e61bb7867852b1072a9444bb.js",
+    "service-worker.js": "/ip-react/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/ip-react/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.c318d926.chunk.css.map": "/ip-react/static/css/main.c318d926.chunk.css.map",
+    "static/js/2.d581e526.chunk.js.LICENSE.txt": "/ip-react/static/js/2.d581e526.chunk.js.LICENSE.txt",
+    "static/media/cover-image.jpg": "/ip-react/static/media/cover-image.354d28e9.jpg",
+    "static/media/github2.png": "/ip-react/static/media/github2.7c356c52.png",
+    "static/media/ip2.jpg": "/ip-react/static/media/ip2.19b25fba.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c39eee13.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.d581e526.chunk.js",
+    "static/css/main.c318d926.chunk.css",
+    "static/js/main.1e639581.chunk.js"
+  ]
+}
