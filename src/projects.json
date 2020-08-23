@@ -55,7 +55,15 @@
         "github": "https://github.com/izabelacloud/Connect-Me",
         "deployedapp": "https://izabelacloud-connectme.herokuapp.com/",
         "description": "Connect Me"
-      }
+      },
+      {
+        "id": 8,
+        "name": "Test",
+        "image": "https://raw.githubusercontent.com/izabelacloud/Tech-Blog/master/assets/tech-blog.png",
+        "github": "https://github.com/izabelacloud/Tech-Blog",
+        "deployedapp": "https://whispering-everglades-49226.herokuapp.com/",
+        "description": "Test"
+      },
 
 ]
   
