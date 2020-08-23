@@ -51,7 +51,7 @@
       {
         "id": 7,
         "name": "Connect Me",
-        "image": "https://github.com/izabelacloud/Connect-Me/blob/master/client/src/assets/img/connect-me.png?raw=true",
+        "image": "https://github.com/izabelacloud/Connect-Me/blob/master/client/src/assets/img/connect-me1.png?raw=true",
         "github": "https://github.com/izabelacloud/Connect-Me",
         "deployedapp": "https://izabelacloud-connectme.herokuapp.com/",
         "description": "Connect Me"
