@@ -1,4 +1,5 @@
 [
+
     {
       "id": 1,
       "name": "Recipe Parade",
@@ -47,13 +48,14 @@
         "deployedapp": "https://whispering-everglades-49226.herokuapp.com/",
         "description": "Tech Blog"
       },
-    {
-      "id": 7,
-      "name": "Connect Me",
-      "image": "https://github.com/izabelacloud/Connect-Me/blob/master/client/src/assets/img/connect-me.png?raw=true",
-      "github": "https://github.com/izabelacloud/Connect-Me",
-      "deployedapp": "https://izabelacloud-connectme.herokuapp.com/",
-      "description": "Connect Me"
-    }
+      {
+        "id": 7,
+        "name": "Connect Me",
+        "image": "https://github.com/izabelacloud/Connect-Me/blob/master/client/src/assets/img/connect-me.png?raw=true",
+        "github": "https://github.com/izabelacloud/Connect-Me",
+        "deployedapp": "https://izabelacloud-connectme.herokuapp.com/",
+        "description": "Connect Me"
+      }
+
 ]
   
