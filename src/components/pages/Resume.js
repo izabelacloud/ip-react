@@ -6,7 +6,7 @@ const Resume = () => (
     <h1 className="resume-list">Resume</h1>
 
     <div className="resume-link">
-    <a href="https://drive.google.com/file/d/1LwHVNKQVaa3L9yNnKfuTprYYG6AvWDyY/view?usp=sharing" target="blank" alt="Resume">Download my Resume</a>
+    <a href="https://drive.google.com/file/d/1Lcu3VLIRmN0SDOzQvarqUQ7kMyWzhIha/view?usp=sharing" target="blank" alt="Resume">Download my Resume</a>
     </div>
 
     <div className="resume-main">
